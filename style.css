@@ -1,0 +1,283 @@
+#principal{
+    background-image: url(imagens/HOMEe.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100vh; /* Garante que o corpo ocupe 100% da altura da tela */
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 820px;
+    float :right ;
+}
+ul li{
+    float: left;
+    font-size: 130%; 
+    padding-left: 30px;  
+    margin-top: 30px;
+    
+}
+
+.menu{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------- alertas---------------------------------------------------------------------------------*/
+#alertas{
+    background-image: url(imagens/9.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100vh; /* Garante que o corpo ocupe 100% da altura da tela */
+}
+
+.retorno{
+    font-size: 110px;
+    color: transparent;
+    padding: 50px;
+    
+}
+
+/*--------------------------------------------------- Configuração---------------------------------------------------------------------------------*/
+#configuração{
+    background-image: url(imagens/2.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100vh; /* Garante que o corpo ocupe 100% da altura da tela */
+}
+
+.retorno{
+    font-size: 110px;
+    color: transparent;
+    padding: 50px;
+    
+}
+
+.cone{
+    float: left;
+    font-size: 80px;
+    color: transparent;
+    padding-left: 230px;
+    padding-top: 450px;
+
+
+}
+
+.date{
+    float: left;
+    font-size: 80px;
+    color: transparent;
+    padding-left: 80px;
+    padding-top: 450px;
+
+
+}
+
+.tax{
+    float: left;
+    font-size: 80px;
+    color: transparent;
+    padding-left: 80px;
+    padding-top: 450px;
+
+
+}
+    
+    
+
+
+/*--------------------------------------------------- Consumo---------------------------------------------------------------------------------*/
+#consumo{
+    background-image: url(imagens/6.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100vh; /* Garante que o corpo ocupe 100% da altura da tela */
+}
+
+.retorno{
+    font-size: 110px;
+    color: transparent;
+    padding: 50px;
+    
+}
+
+
+/*--------------------------------------------------- Controle---------------------------------------------------------------------------------*/
+#controle{
+    background-image: url(imagens/7.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100vh; /* Garante que o corpo ocupe 100% da altura da tela */
+}
+
+.retorno{
+    font-size: 110px;
+    color: transparent;
+    padding: 50px;
+    
+}
+
+/*--------------------------------------------------- Suporte---------------------------------------------------------------------------------*/
+#suporte{
+    background-image: url(imagens/10.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100vh; /* Garante que o corpo ocupe 100% da altura da tela */
+}
+
+.retorno{
+    font-size: 110px;
+    color: transparent;
+    padding: 50px;
+    
+}
+
+/*--------------------------------------------------- conexão---------------------------------------------------------------------------------*/
+#conexão{
+    background-image: url(imagens/3.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100vh; /* Garante que o corpo ocupe 100% da altura da tela */
+}
+
+.retorno{
+    font-size: 110px;
+    color: transparent;
+    padding: 50px;
+    
+}
+
+#rede{
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+.rede1{
+    padding: 25px 74px;
+    border-radius: 50px;
+    position: relative;
+    top: 287px;
+    left: 659px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+.senha1{
+    padding: 25px 74px;
+    border-radius: 50px;
+    position: relative;
+    top: 345px;
+    left: 659px;
+    font-size: 20px;
+    text-align: center;
+}
+
+/*--------------------------------------------------- Taxas---------------------------------------------------------------------------------*/
+#taxas{
+    background-image: url(imagens/4.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100vh; /* Garante que o corpo ocupe 100% da altura da tela */
+}
+
+.retorno{
+    font-size: 110px;
+    color: transparent;
+    padding: 50px;
+    
+    
+}
+
+
+.tu1{
+    padding: 25px 75px;
+    border-radius: 50px;
+    position: relative;
+    top: 165px;
+    left: 649px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+.tu2{
+    padding: 25px 75px;
+    border-radius: 50px;
+    position: relative;
+    top: 225px;
+    left: 649px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.tu3{
+    padding: 25px 75px;
+    border-radius: 50px;
+    position: relative;
+    top: 285px;
+    left: 649px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.te1{
+    padding: 25px 75px;
+    border-radius: 50px;
+    position: relative;
+    top: -65px;
+    left: 1140px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.te2{
+    padding: 25px 75px;
+    border-radius: 50px;
+    position: relative;
+    top: -6px;
+    left: 1140px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.te3{
+    padding: 25px 75px;
+    border-radius: 50px;
+    position: relative;
+    top: 53px;
+    left: 1140px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+.baixo{
+        padding: 25px 75px;
+        border-radius: 50px;
+        position: relative;
+        top: 113px;
+        left: 885px;
+        font-size: 20px;
+        cursor: pointer;
+        text-align: center;
+    
+}
+
+
